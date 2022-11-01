@@ -1,6 +1,7 @@
 title: Minimal theme
 logo: /assets/img/logo.png
-description: esta es la primera pagina que hago.
+description: 
+esta es la primera pagina que hago. es muy divertido
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
